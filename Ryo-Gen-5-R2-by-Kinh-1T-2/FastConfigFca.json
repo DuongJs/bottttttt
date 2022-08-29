@@ -1,0 +1,19 @@
+{
+	"Language": "vi",
+	"MainColor": "#9900FF",
+	"BroadCast": true,
+	"EncryptFeature": false,
+	"PreKey": "",
+	"Uptime": false,
+	"AutoRestartMinutes": 0,
+	"MainName": "[ FCA-HZI ]",
+	"HTML": {
+		"UserName": "Guest",
+		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download",
+		"HTML": true
+	},
+	"AutoUpdate": true,
+	"AutoLogin": false,
+	"ResetDataLogin": false,
+	"Login2Fa": false
+}

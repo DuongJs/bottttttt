@@ -1,0 +1,29 @@
+{
+  "name": "Nguyễn Quang",
+  "ID": "100063502340377",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Sparse Reef"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 40,
+      "countdown": 180,
+      "countdownData": 1648178063996,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "3/25/2022, 10:09:59 AM"
+}

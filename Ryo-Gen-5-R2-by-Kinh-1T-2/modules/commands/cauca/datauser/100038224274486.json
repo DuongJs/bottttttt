@@ -1,0 +1,29 @@
+{
+  "name": "Đào Minh Thái",
+  "ID": "100038224274486",
+  "mainROD": "Jeweled Tungsten Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Jeweled Tungsten Harpoon",
+      "price": 29000,
+      "durability": 870,
+      "countdown": 30,
+      "countdownData": 1648183242343,
+      "image": "https://i.imgur.com/P4l8Ivq.jpg"
+    }
+  ],
+  "timeRegister": "3/24/2022, 9:25:15 PM"
+}

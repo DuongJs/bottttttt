@@ -1,0 +1,146 @@
+{
+    "1051713874": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100080620386598": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Ducati-Monster-795",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100036576590462": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100062515501117": {
+        "car": [],
+        "cup": 0
+    },
+    "100074156839173": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Ducati-Monster-795",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100061011450136": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Yamaha-YZF-R1",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100054714096443": {
+        "car": [],
+        "cup": 0
+    },
+    "100075033347654": {
+        "car": [],
+        "cup": 0
+    },
+    "100068558266689": {
+        "car": [],
+        "cup": 0
+    },
+    "100025361627541": {
+        "car": [],
+        "cup": 0
+    },
+    "100018839272297": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Yamaha-YZF-R1",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100075369333584": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100050924621842": {
+        "car": [],
+        "cup": 0
+    },
+    "100077696552800": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Yamaha-YZF-R1",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    }
+}

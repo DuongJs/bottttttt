@@ -1,0 +1,20 @@
+{
+  "files": {
+    "appstate.json": [
+      {
+        "id": "5fc27f30-73b8-42d1-b5c8-8e3cbfc8a72f",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "package.json": [
+      {
+        "id": "da18b9fd-af3a-4c7b-bdaf-f949460542ea",
+        "line": 13,
+        "version": 1,
+        "index": 396
+      }
+    ]
+  }
+}
